@@ -9,18 +9,40 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.6"
+    "@next/font": "^14.2.7",
+    "@nextui-org/react": "^2.4.6",
+    "@wix/bookings": "^1.0.431",
+    "@wix/ecom": "^1.0.763",
+    "@wix/members": "^1.0.106",
+    "@wix/redirects": "^1.0.58",
+    "@wix/sdk": "^1.12.12",
+    "@wix/stores": "^1.0.214",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "flowbite": "^2.5.1",
+    "isomorphic-dompurify": "^2.15.0",
+    "js-cookie": "^3.0.5",
+    "next": "^14.2.12",
+    "react": "^18.3.1",
+    "react-confetti": "^6.1.0",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.3.0",
+    "swiper": "^11.1.14",
+    "tailwind-merge": "^2.5.2",
+    "tailwindcss-animate": "^1.0.7",
+    "timeago.js": "^4.0.2",
+    "zustand": "^5.0.0-rc.2"
   },
   "devDependencies": {
-    "typescript": "^5",
+    "@types/js-cookie": "^3.0.6",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
-    "postcss": "^8",
-    "tailwindcss": "^3.4.1",
+    "autoprefixer": "^10.4.20",
     "eslint": "^8",
-    "eslint-config-next": "14.2.6"
+    "eslint-config-next": "14.2.6",
+    "postcss": "^8.4.41",
+    "tailwindcss": "^3.4.10",
+    "typescript": "^5"
   }
 }
